@@ -6,3 +6,7 @@ x, _, _, y = vise()
 print(t)
 print(x,y)
 dasdadasdafdsadczx
+
+
+
+asddas
