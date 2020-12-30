@@ -130,4 +130,4 @@ class Child(Base):
 c = Child()
 print(c.attr2)
 print(c.attr3)
-das
+
